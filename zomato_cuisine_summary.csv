@@ -1,0 +1,43 @@
+cuisine,total_restaurants,average_rating,average_cost_for_two
+Mediterranean,86,4.2,1471.0
+European,104,4.16,1523.0
+Asian,182,4.09,1288.0
+Steak,74,4.04,1057.0
+BBQ,126,3.99,1004.0
+American,198,3.98,972.0
+Finger Food,157,3.93,1363.0
+Mexican,97,3.93,754.0
+Salad,179,3.92,904.0
+Continental,818,3.89,1018.0
+Italian,499,3.88,920.0
+Thai,185,3.85,966.0
+Healthy Food,144,3.81,506.0
+Cafe,671,3.8,641.0
+Desserts,983,3.79,415.0
+Ice Cream,373,3.78,306.0
+Sandwich,167,3.75,391.0
+Pizza,391,3.74,708.0
+Burger,366,3.73,566.0
+Beverages,835,3.73,404.0
+Seafood,319,3.73,720.0
+Mangalorean,111,3.71,696.0
+Momos,245,3.71,542.0
+Mughlai,303,3.68,710.0
+Tea,65,3.67,317.0
+Bakery,492,3.62,405.0
+Mithai,205,3.6,263.0
+Juices,202,3.59,305.0
+Tibetan,54,3.59,370.0
+Arabian,193,3.59,560.0
+Street Food,604,3.59,297.0
+Kebab,174,3.58,543.0
+South Indian,1629,3.57,440.0
+North Indian,3840,3.57,604.0
+Kerala,244,3.57,490.0
+Fast Food,1597,3.56,407.0
+Bengali,106,3.55,484.0
+Chinese,2827,3.54,579.0
+Andhra,379,3.53,574.0
+Biryani,1281,3.51,488.0
+Rolls,297,3.49,334.0
+Hyderabadi,69,3.46,581.0
