@@ -1,5 +1,5 @@
-CREATE DATABASE zomato_resturants;
-USE zomato_resturants;
+CREATE DATABASE zomato_analysis;
+USE zomato_analysis;
 
 SELECT * FROM restaurants;
 
